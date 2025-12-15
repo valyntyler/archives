@@ -2,18 +2,18 @@
 
 ## People
 
-- [[members]]
-- [[coaches]]
-- [[teams]]
-- [[board]]
+- [Members](./Members.md)
+- [Coaches](./Coaches.md)
+- [Teams](./Teams.md)
+- [Board](./Board.md)
 
 ## Things we do
 
-- [[events]]
-- [[contests]]
+- [Events](./Events.md)
+- [Contests](./Contests.md)
 
 ## Our partners
 
-- [[organizations]]
-- [[institutions]]
-- [[companies]]
+- [Organizations](./Organizations.md)
+- [Institutions](./Institutions.md)
+- [Companies](./Companies.md)
