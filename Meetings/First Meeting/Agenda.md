@@ -13,3 +13,9 @@
 - general members form teams and participate in contests
 - they can register through [link.to.registration.portal](../../wip)
 - we currently have [$members](../../wip) members.
+
+## Coaches
+
+- coaches are the people who empower are members
+- they help everyone improve and keep the teams on track
+- we currently have [x](../../wip) coaches across [y](../../wip) teams.
