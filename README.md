@@ -2,18 +2,18 @@
 
 ## People
 
-- [Members](./Members.md)
-- [Coaches](./Coaches.md)
-- [Teams](./Teams.md)
-- [Board](./Board.md)
+- [Members](./docs/Members.md)
+- [Coaches](./docs/Coaches.md)
+- [Teams](./docs/Teams.md)
+- [Board](./docs/Board.md)
 
 ## Things we do
 
-- [Events](./Events.md)
-- [Contests](./Contests.md)
+- [Events](./docs/Events.md)
+- [Contests](./docs/Contests.md)
 
 ## Our partners
 
-- [Organizations](./Organizations.md)
-- [Institutions](./Institutions.md)
-- [Companies](./Companies.md)
+- [Organizations](./docs/Organizations.md)
+- [Institutions](./docs/Institutions.md)
+- [Companies](./docs/Companies.md)
