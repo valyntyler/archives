@@ -15,7 +15,11 @@
         pkgs = nixpkgs.legacyPackages.${system};
       in {
         devShells.default = pkgs.mkShell {
-          buildInputs = with pkgs; [sqlite];
+          buildInputs = with pkgs; [
+            just
+            nushell
+            sqlite
+          ];
         };
       }
     );
