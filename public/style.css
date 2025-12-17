@@ -1,0 +1,11 @@
+body {
+  font-family: "JetBrains Mono", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  width: 600px;
+  margin-top: 40px;
+}
