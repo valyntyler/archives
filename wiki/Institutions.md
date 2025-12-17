@@ -9,8 +9,10 @@ We're here.
 
 ## TU/e
 
-We know Lotte Lakeman at TU/e, famed JetBrains employee and very nice person.
-She's responsible for some of their CP stuff and offered to help us set up ours.
+We know [Lotte Lakeman](mailto:lotte.lakeman@jetbrains.com) at TU/e, famed
+JetBrains employee and very nice person. She's responsible for some of their
+[CP stuff at Eindhoven](mailto:gehack@gewis.nl) and offered to help us set up
+ours.
 
 ## Delft
 
